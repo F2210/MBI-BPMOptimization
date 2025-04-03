@@ -1,0 +1,4 @@
+/__example__.py
+temp
+*.cpy*
+runs/*.txt
