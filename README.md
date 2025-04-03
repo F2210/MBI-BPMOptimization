@@ -1,6 +1,6 @@
 # BPM Optimization
 
-This repository contains tools for business process optimization, including a heuristic planner and a multithreaded variant focused on healthcare resource scheduling.
+This repository contains the result of the optimisation assignment for the BPM course. This exercise was performed in collaboration with @CerineExists, @LvanWerven and @stijnli
 
 ## Running the Heuristic Planner
 
